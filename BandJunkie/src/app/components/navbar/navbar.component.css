@@ -1,0 +1,32 @@
+.navbar{
+    background-color: black;
+    color: whitesmoke;
+    height: 65px;
+    width: 100%; 
+    font-size: 17px;
+}
+
+.page {
+    min-height:65px;
+    min-width: 50px;
+    float:left;
+    padding-left:25px;
+}
+
+.page:hover {
+    color: slategrey;
+}
+
+button {
+    float:right;
+    padding-right: 25px;
+    border-style: none;
+    color: inherit;
+    background-color: inherit;
+    height: 65px;
+    font-size: inherit;
+}
+
+button:hover {
+    color: slategrey;
+}
